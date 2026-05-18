@@ -3,14 +3,14 @@ import { useGLTF, OrbitControls, Stage, Center, Environment, ContactShadows } fr
 import { Suspense } from 'react'
 
 function Model() {
-  const { scene } = useGLTF("/earth/scene.gltf");
+  const { scene } = useGLTF("/water_tank/scene.gltf");
   return <primitive object={scene} scale={1} />;
 }
 
 const Watertank = () => {
   return (
     <div className="w-full h-screen overflow-hidden">
-      <Canvas shadows camera={{ position: [0, 0, 20], fov: 45 }}>
+      <Canvas shadows camera={{ position: [0, 1.5, 5], fov: 45 }}>
         
         1. Ambient Light: Pure scene mein halki raushni (no shadows)
         <ambientLight intensity={0.5} />

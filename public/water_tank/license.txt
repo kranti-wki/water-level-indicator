@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plastic Water Tank 500 Lts
+* source:	https://sketchfab.com/3d-models/plastic-water-tank-500-lts-52c926f621ff4d61a2fb66a9160b3c91
+* author:	Maggadog (https://sketchfab.com/mwangiwambui.wambui)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plastic Water Tank 500 Lts" (https://sketchfab.com/3d-models/plastic-water-tank-500-lts-52c926f621ff4d61a2fb66a9160b3c91) by Maggadog (https://sketchfab.com/mwangiwambui.wambui) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
